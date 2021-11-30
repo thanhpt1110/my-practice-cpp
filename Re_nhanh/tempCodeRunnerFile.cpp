@@ -1,0 +1,1 @@
+    std::cout.precision(10);
