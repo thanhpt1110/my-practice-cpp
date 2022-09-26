@@ -21,7 +21,7 @@ int so_dau_tien(int n)
     return sotachra;
 }
 
-bool isBenford(int a[], int n)
+bool isBenford(int a[], int n) 
 {
     int count_1=0, count_2=0;
     for (int i=0; i<n; i++)
