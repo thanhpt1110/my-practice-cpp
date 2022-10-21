@@ -1,7 +1,11 @@
 # Hello GUYS 🙋‍♂️  
+>It's my first time using Git :v
 
-> This is about nothing :v just the first time I try GitHub :v
+* This repo just has some IT001's homework and my extremely 'amateur' code 😥
+* I save here so I can look back and know how 'amateur' I used to be and of course It's just BETTER than I was 😁
 
-**I'm _chasing and learning_ this field**
+# 
+* Btw, after a couple of months, I'd improved a little bit I think so :v 
+* Wanna see my last C++ code style 🤔
 
-_Thanks for reading^^_
+**👉 Check this out: https://codeforces.com/profile/thanhpt1110**
