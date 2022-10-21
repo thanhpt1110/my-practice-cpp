@@ -6,6 +6,7 @@
 
 # 
 * Btw, after a couple of months, I'd improved a little bit I think so :v 
+* I haven't used C++ for coding GUI, I prefer DSA more 😅
 * Wanna see my last C++ code style 🤔
 
 **👉 Check this out: https://codeforces.com/profile/thanhpt1110**
